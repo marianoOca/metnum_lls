@@ -10,7 +10,7 @@ The project focuses on understanding which statistical characteristics of countr
 
 The objective of this project is to analyze real-world datasets to identify the relationships between life expectancy and other indicators, such as health, economy, or education. Using **linear regression** (least squares method), several model variations are explored and evaluated.
 
-Students were expected to:
+Some of the duties were:
 - Perform a thorough exploratory data analysis (EDA)
 - Identify and visualize correlations and outliers
 - Clean and preprocess data (e.g., handle missing values)
